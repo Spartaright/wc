@@ -1,0 +1,3 @@
+﻿  wc.c
+g:\softwarehomework\wc.exe\wc.exe\wc.c(78): warning C4715: “linecalculate”: 不是所有的控件路径都返回值
+  wc.exe.vcxproj -> G:\softwarehomework\wc.exe\Debug\wc.exe.exe
